@@ -1,0 +1,38 @@
+K01 - Tanah yang mengalami erosi
+T01: Lapisan atas tanah menghilang - 0.8
+T02: Aliran air membawa partikel tanah - 0.6
+T04: Tanah keras - 0.4
+T05: Tanah kering - 0.4
+Solusi: Lakukan penanaman tanaman penutup seperti rumput atau legum, Buat terasering, Kurangi pengolahan tanah yang berlebihan, atau  tanaman penahan erosi. 
+
+K02 - Tanah yang terlalu gersang dan keras
+T03: Retakan pada tanah - 0.6
+T04: Tanah keras - 0.8
+T05: Tanah kering - 0.8
+T07: Perubahan warna pada tanah menjadi pucat - 0.2
+Solusi: Tambahkan kompos atau pupuk kandang pada tanah, lakukan irigasi yang teratur, terapkan mulsa, dan kurangi pemadatan tanah dengan cara minimalisasi pengolahan tanah.
+
+
+K03 - Tanah yang terlalu basah
+T06: Tanah basah - 0.8
+T08: Perubahan warna pada tanah menjadi gelap - 0.8
+T10: Tanah berbau busuk - 0.2
+Solusi: Buat saluran drainase, Perbaiki menanam tanaman yang menyerap air, atau Lakukan pengolahan tanah untuk meningkatkan aerasi dan drainase. 
+
+K04 - Tanah yang memiliki lapisan garam atau endapan
+T03: Retakan pada tanah - 0.2
+T05: Tanah kering - 0.2
+T09: Terdapat lapisan garam pada tanah - 0.8
+Solusi: Lakukan pencucian tanah dengan air tawar, Kurangi pemakaian pupuk kimia, Tanam tanaman toleran garam, atau gunakan sistem irigasi tetes untuk menghindari penumpukan garam
+
+K05 - Tanah yang berbau busuk atau bahan kimia
+T06: Tanah basah - 0.2
+T08: Perubahan warna pada tanah menjadi gelap - 0.2
+T10: Tanah berbau busuk - 0.8
+T11: Tanah berbau bahan kimia - 0.8
+Solusi: Tingkatkan aerasi tanah dengan pengolahan ringan, gunakan pupuk organik yang matang, dan kurangi penggunaan bahan kimia yang tidak ramah lingkungan. .
+
+K06 - Tanah yang mengalami perubahan warna
+T07: Perubahan warna pada tanah menjadi pucat - 0.8
+T08: Perubahan warna pada tanah menjadi gelap - 0.8
+Solusi: Tambahkan pupuk mineral, tingkatkan aerasi tanah, atau kurangi bahan organik berlebihan dengan kompos matang.
